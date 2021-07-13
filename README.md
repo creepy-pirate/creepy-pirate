@@ -67,14 +67,14 @@
 	self.linkedin = '/creepypirate'
 	self.code = {
 	'languages': ['Python', 'Java', 'C/C++', 'Javascript', 'Swift', 'PHP', 'Bash'],
-	'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Materialize', 'Boostrap', 'TailWind'],
+	'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Materialize', 'Bootstrap', 'TailWindCSS'],
 	'backend': ['Python', 'PHP', 'Django', 'Laravel', 'NodeJS'],
-	'database': ['MySQL', 'SQLite3', 'Mongo DB'],
+	'database': ['MySQL', 'Mongo DB'],
 	'devops': ['GitHub Actions', 'AWS', 'Heroku'],
 	'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook'],
 	'misc': ['Firebase', 'TDD', 'SCRUM', 'GNU/Linux']
 	}
-	self.architecture = ['Delegate Design', 'MVC', 'Serverless', 'microservices']
+	self.architecture = ['Delegate Design', 'MVC', 'Serverless', 'Microservices']
 	self.design = ['Adobe Photoshop', 'Adobe Illustrator', 'Adobe XD', 'Final Cut Pro']
 	
 	def __str__(self):
