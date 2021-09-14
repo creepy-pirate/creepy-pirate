@@ -26,9 +26,10 @@
 ![](https://komarev.com/ghpvc/?username=creepy-pirate&color=green)
 
 ## :book: About Me
-- 🖥 Full-Stack Software Developer
+- 🖥 Software Developer
 - 💼 Founder of  [<img src="https://cyberedia.com/img/logo-white.png" height="30em" align="center" alt="Cyberedia" title="Cyberedia"/>](https://cyberedia.com)
 - 🎓 Studying Information Science Engineering at BMS Institute of Technology Bangalore, Class of 23'
+- Check out my <a href="https://creepypirate.xyz">portfolio</a>
 
 
 
