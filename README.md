@@ -88,13 +88,6 @@
 	
 	
 ```
-
-
-
-<a href="https://github.com/creepy-pirate/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=creepy-pirate&show_icons=true&theme=dark" />
-</a>
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
 <a href="https://github.com/creepypirate/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creepy-pirate&layout=compact" />
 </a>
