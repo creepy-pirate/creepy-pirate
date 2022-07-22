@@ -1,5 +1,5 @@
 ### Hello there 
-
+<p align="center">
 <a href="https://twitter.com/_creepypirate">
   <img align="left" alt="Deepak Singh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -22,7 +22,7 @@
 - 🎓 Studying Information Science Engineering at BMS Institute of Technology Bangalore, Class of 23'
 - 📲 Check out my <a href="https://creepypirate.xyz">portfolio</a> website
 
-
+</p>
 
 **Languages and Tools:**  
 </br>
