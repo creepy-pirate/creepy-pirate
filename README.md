@@ -45,7 +45,7 @@ class creepyPirate:
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,js,py,java,mysql,react,django)](https://skills.thijs.gg)
 
 ### What I sometimes play with
-[![My Skills](https://skills.thijs.gg/icons?i=mongodb,php,swift,tailwind,nodejs,c++,firebase)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=mongodb,php,swift,tailwind,nodejs,c,firebase)](https://skills.thijs.gg)
 
 
 
