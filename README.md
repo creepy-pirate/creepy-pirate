@@ -1,5 +1,4 @@
 ### Hello there 
-<p align="center">
 <a href="https://twitter.com/_creepypirate">
   <img align="left" alt="Deepak Singh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -33,7 +32,19 @@
 
 
 
+<h1 align="center">🤠 Hello There! I'm Deepak</h1>
 
+<p align="center">
+I'm currently a final-year student at BMS Institute of Technology & Management. I am a full-stack developer and have worked extensively on web based projects.
+</p>
+
+
+<div align="center">
+
+  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/creepypirate/)](https://www.linkedin.com/in/creepypirate/)
+  [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dv72276@gmail.com)](mailto:dv72276@gmail.com)
+</div>
+<br>
 
 
 </br>
