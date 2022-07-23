@@ -33,10 +33,10 @@ class creepyPirate:
 		self.code = {
 		'languages': ['Python', 'Java', 'C/C++', 'Javascript', 'Swift', 'PHP', 'Bash'],
 		'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Materialize', 'Bootstrap', 'TailWindCSS'],
-		'backend': ['Python', 'PHP', 'Django', 'Laravel', 'NodeJS'],
+		'backend': ['Python', 'PHP', 'Django', 'NodeJS'],
 		'database': ['MySQL', 'Mongo DB'],
 		 'devops': ['GitHub Actions', 'AWS', 'Heroku'],
-		'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook'],
+		'tools': ['GIT', 'GitHub', 'GitLab', 'Jupyter notebook'],
 		'misc': ['Firebase', 'TDD', 'SCRUM', 'GNU/Linux']
 		}
 	self.architecture = ['Delegate Design', 'MVC', 'Serverless', 'Microservices']
