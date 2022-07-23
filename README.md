@@ -53,7 +53,10 @@ class creepyPirate:
 ```
 
 ### What I always play with
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,,mysql,py,react)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,mysql,py,react)](https://skills.thijs.gg)
+
+### What I sometimes play with
+[![My Skills](https://skills.thijs.gg/icons?i=mongodb,php,swift,tailwind,bootstrap)](https://skills.thijs.gg)
 
 
 
