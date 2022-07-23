@@ -7,6 +7,10 @@
   <img align="left" alt="Deepak's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+ <a href="https://www.instagram.com/in/creepypirate.tech/">
+  <img align="left" alt="Deepak's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+</a>
+
 
 
 
