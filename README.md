@@ -1,14 +1,3 @@
-
-
-
-**Languages and Tools:**  
-</br>
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,java,js,mongodb,mysql,php,py,react,swift,tailwind)](https://skills.thijs.gg)
-
-
-
-
-
 <h1 align="center">🤠 Hello There! I'm Deepak</h1>
 
 <p align="center">
@@ -53,10 +42,10 @@ class creepyPirate:
 ```
 
 ### What I always play with
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,mysql,py,react,bootstrap,django)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,js,py,java,mysql,react,django)](https://skills.thijs.gg)
 
 ### What I sometimes play with
-[![My Skills](https://skills.thijs.gg/icons?i=mongodb,php,swift,tailwind,nodejs)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=mongodb,php,swift,tailwind,nodejs,c++,firebase)](https://skills.thijs.gg)
 
 
 
