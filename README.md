@@ -48,12 +48,12 @@ class creepyPirate:
 </br>
 
 ### What I always play with
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,js,py,java,mysql,react,django)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,js,py,java,swift,mysql,react,django)](https://skills.thijs.gg)
 
 </br>
 
 ### What I sometimes play with
-[![My Skills](https://skills.thijs.gg/icons?i=c,swift,nodejs,mongodb,php,tailwind,firebase,aws,heroku,bash)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=c,nodejs,mongodb,php,tailwind,firebase,aws,heroku,bash)](https://skills.thijs.gg)
 
 </br>
 
