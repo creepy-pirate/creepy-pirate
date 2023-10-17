@@ -1,7 +1,6 @@
 <h1 align="center">🤠 Hello There! I'm Deepak</h1>
 
-<p align="center">
-I'm currently a final-year student at BMS Institute of Technology & Management. </br> 
+<p align="center"> 
 I am a full-stack developer and have worked extensively on web based projects at my agency Cyberedia</br>
 I have also worked on native iOS Apps using Swift. </br>
 </br>
