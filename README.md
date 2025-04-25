@@ -21,7 +21,7 @@
 
 ---
 
-### 💻 Tech Stack I'm Comfortable With
+### 💻 Tech Stack I use
 
 ```python
 class creepyPirate:
