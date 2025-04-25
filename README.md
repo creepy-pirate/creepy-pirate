@@ -3,8 +3,9 @@
 <p align="center">
   I'm a full-stack software engineer currently working at <strong>JFrog</strong>, where I build robust backend services and intuitive frontend experiences. <br>
   From clean code to product thinking — I strive to bring value across the stack. <br><br>
-  Previously, I’ve worked on native iOS apps in Swift and full-fledged web apps at Cyberedia. <br>
-  Passionate about dev tools, system design, and building things that developers love. <br>
+  Previously, I’ve worked with PhonePe, Airbus, Pixis.ai as an intern and have developed full-fledged web apps at Cyberedia (A web agency I founded). <br>
+  A master tinkerer at heart — I love diving into the internals of the tools and frameworks I use. From optimizing CI/CD pipelines to profiling backend performance and visualizing frontend data flows, I'm driven by curiosity to understand the how and 
+  why behind the systems I build. <br>
 </p>
 
 <div align="center">
