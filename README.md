@@ -54,19 +54,4 @@ if __name__ == "__main__":
 
 </br>
 
-### 🚀 What I always play with  
-[![My Skills](https://skills.thijs.gg/icons?i=java,spring,vue,ts,js,html,css,postgres,py,docker,git,github)](https://skills.thijs.gg)
-
-</br>
-
-### 🛠️ What I sometimes play with  
-[![My Skills](https://skills.thijs.gg/icons?i=swift,nodejs,mongodb,c,aws,bash,php,firebase,linux)](https://skills.thijs.gg)
-
-</br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=creepy-pirate&" alt="creepy-pirate" /></p>
-
-</br>
-
-
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/creepy-pirate) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/creepy-pirate)
